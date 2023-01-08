@@ -13,7 +13,5 @@ mv $UPSTREAM_FILENAME "repo/small-talk-$NORMALISED_TAG.apk"
 
 fdroid update
 
-git checkout repo
-git add repo
 git commit -am "Syncing repo"
 git push
