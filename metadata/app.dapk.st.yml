@@ -1,0 +1,9 @@
+AuthorName: 'ouchadam'
+Categories:
+- fdroid-repository
+CurrentVersionCode: 27
+IssueTracker: 'https://github.com/ouchadam/small-talk/issues'
+Name: SmallTalk
+SourceCode: 'https://github.com/ouchadam/small-talk'
+Summary: 'Minimal Android messenger powered by Matrix'
+WebSite: 'https://github.com/ouchadam/small-talk'
