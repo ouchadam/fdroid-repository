@@ -3,17 +3,27 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "d2086fb4a7baa1305fb4b9cfe6be6cb1509f6ff3",
+    "commitId": "44783be5da445a6a085cdd86559b350ef7e19dc7",
     "isDirty": true,
     "modifiedFiles": [
       "repo/index-v1.jar",
       "repo/index-v1.json",
-      "repo/index.html",
       "repo/index.jar",
-      "repo/index.xml"
+      "repo/index.xml",
+      "repo/status/running.json",
+      "repo/status/update.json"
     ],
-    "untrackedFiles": []
+    "untrackedFiles": [
+      "metadata/app.dapk.st/en-US/featureGraphic.jpg",
+      "metadata/app.dapk.st/en-US/full_description.txt",
+      "metadata/app.dapk.st/en-US/icon.png",
+      "metadata/app.dapk.st/en-US/short_description.txt",
+      "repo/app.dapk.st/en-US/featureGraphic.jpg",
+      "repo/app.dapk.st/en-US/featureGraphic_yAieDMVDec9Oc_ZDgEUJ1QKd1AIsOYW4u4AN7U-irjw=.jpg",
+      "repo/app.dapk.st/en-US/icon.png",
+      "repo/app.dapk.st/en-US/icon_GPHxSo_iNKgHlCuiqcWWCOz0JF1rUCzWa4Nn5HiddtM=.png"
+    ]
   },
-  "startTimestamp": 1673188995000,
+  "startTimestamp": 1673189724000,
   "subcommand": "update"
 }
