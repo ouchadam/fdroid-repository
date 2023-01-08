@@ -3,23 +3,22 @@
     "/usr/bin/fdroid update"
   ],
   "fdroiddata": {
-    "commitId": "4796b6b26086cb7cfb20e4e3520880e4fc52f046",
+    "commitId": "3c53c2ac81ddf52eae413e0568618f413d689f9d",
     "isDirty": true,
     "modifiedFiles": [
+      "repo/index-v1.jar",
+      "repo/index-v1.json",
+      "repo/index.html",
+      "repo/index.jar",
+      "repo/index.xml",
+      "repo/status/running.json",
+      "repo/status/update.json",
       "sync.sh"
     ],
     "untrackedFiles": [
-      "repo/categories.txt",
-      "repo/icons/icon.png",
-      "repo/index-v1.jar",
-      "repo/index-v1.json",
-      "repo/index.css",
-      "repo/index.html",
-      "repo/index.jar",
-      "repo/index.png",
-      "repo/index.xml"
+      "repo/small-talk-07.11.2022-V1.apk"
     ]
   },
-  "startTimestamp": 1673180365000,
+  "startTimestamp": 1673180409000,
   "subcommand": "update"
 }
