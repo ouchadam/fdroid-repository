@@ -1,0 +1,25 @@
+{
+  "commandLine": [
+    "/usr/bin/fdroid update"
+  ],
+  "fdroiddata": {
+    "commitId": "4796b6b26086cb7cfb20e4e3520880e4fc52f046",
+    "isDirty": true,
+    "modifiedFiles": [
+      "sync.sh"
+    ],
+    "untrackedFiles": [
+      "repo/categories.txt",
+      "repo/icons/icon.png",
+      "repo/index-v1.jar",
+      "repo/index-v1.json",
+      "repo/index.css",
+      "repo/index.html",
+      "repo/index.jar",
+      "repo/index.png",
+      "repo/index.xml"
+    ]
+  },
+  "startTimestamp": 1673180365000,
+  "subcommand": "update"
+}
